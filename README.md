@@ -1,12 +1,8 @@
 # Currency-Converter
 
-A simple and user friendly Currency Converter Web App
+A simple and user friendly Currency Converter Web Appcreated using HTML, CSS, and JavaScript.
 
-created using HTML, CSS, and JavaScript.
-
-It allows users to convert one currency into
-
-another using real-time exchange rates.
+It allows users to convert one currency intoanother using real-time exchange rates.
 
 https://codepen.io/ayushidubey-ult/pen/QwNorLL
 
